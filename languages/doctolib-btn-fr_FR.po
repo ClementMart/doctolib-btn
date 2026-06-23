@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Button for Doctolib 0.2\n"
 "POT-Creation-Date: 2020-03-31 17:07+0200\n"
-"PO-Revision-Date: 2020-03-31 17:08+0200\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-01-01 10:00+0100\n"
+"Last-Translator: Clément Martinez <contact@clementmartinez.fr>\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -15,58 +15,77 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: doctolib-btn.php:27
 msgid "Button for Doctolib"
 msgstr "Bouton pour Doctolib"
 
-#: doctolib-btn.php:28
 msgid "Add a floating button for Doctolib"
 msgstr "Ajoute un bouton flottant pour Doctolib"
 
-#: doctolib-btn.php:50 doctolib-btn.php:51 doctolib-btn.php:84
 msgid "Doctolib Settings"
 msgstr "Réglages Doctolib"
 
-#: doctolib-btn.php:91
 msgid "Label"
-msgstr "Texte"
+msgstr "Texte du bouton"
 
-#: doctolib-btn.php:99
 msgid "Link"
 msgstr "Lien"
 
-#: doctolib-btn.php:107
+msgid "Color"
+msgstr "Couleur"
+
 msgid "Position"
 msgstr "Positionnement"
 
-#: doctolib-btn.php:135
-msgid "Fill all the field to make the button appear :)"
-msgstr "Remplir tous les champs pour faire apparaitre le bouton :)"
+msgid "Open in"
+msgstr "Ouverture"
 
-#: doctolib-btn.php:164
+msgid "Appearance delay (seconds)"
+msgstr "Délai d'apparition (secondes)"
+
+msgid "Show Doctolib icon"
+msgstr "Afficher l'icône Doctolib"
+
+msgid "Visibility"
+msgstr "Visibilité"
+
+msgid "Fill all the fields to make the button appear :)"
+msgstr "Remplir tous les champs pour faire apparaître le bouton :)"
+
 msgid "Left Top"
 msgstr "Gauche Haut"
 
-#: doctolib-btn.php:167
 msgid "Right Top"
 msgstr "Droite Haut"
 
-#: doctolib-btn.php:170
 msgid "Left Bottom"
 msgstr "Gauche Bas"
 
-#: doctolib-btn.php:173
 msgid "Right Bottom"
 msgstr "Droite Bas"
 
-#: doctolib-btn.php:176
 msgid "Full width - Bottom"
 msgstr "Pleine largeur - Bas"
 
-#: doctolib-btn.php:179
 msgid "Full width - Top"
 msgstr "Pleine largeur - Haut"
 
-#: doctolib-btn.php:194
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+msgid "0 = visible immediately. The button fades in after the defined delay."
+msgstr "0 = visible immédiatement. Le bouton apparaît en fondu après le délai défini."
+
+msgid "Show the Doctolib logo next to the label"
+msgstr "Afficher le logo Doctolib à côté du texte"
+
+msgid "All pages"
+msgstr "Toutes les pages"
+
+msgid "Home page only"
+msgstr "Page d'accueil uniquement"
+
+msgid "All pages except home"
+msgstr "Toutes les pages sauf l'accueil"
+
 msgid "Settings"
 msgstr "Réglages"
